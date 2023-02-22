@@ -23,6 +23,28 @@
         }
       ],
       "id": 8
+    },
+    {
+      "name": "Teste do balacobaco",
+      "budget": "100000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "Programador Python",
+      "budget": "12000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 10
     }
   ],
   "categories": [
