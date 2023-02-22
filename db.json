@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Desenvolver App de Gestão",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 8000,
+      "services": [
+        {
+          "name": "Programador React Native",
+          "cost": "3000",
+          "description": "Desenvolver a estrutura do Aplicativo",
+          "id": "450d8f0a-8bba-4130-af78-8d84c7386973"
+        },
+        {
+          "name": "Servidor",
+          "cost": "5000",
+          "description": "Alugar servidor para hospedar as informações do App",
+          "id": "fd5b47f4-9106-448e-852e-020cb5906de9"
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
