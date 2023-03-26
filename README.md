@@ -1,51 +1,37 @@
 <h1 align="center">:moneybag: Costs :moneybag:</h1>
-Costs é um projeto desenvolvido em React que permite que os usuários criem e gerenciem seus gastos mensais.
+Costs is a React project that allows users to create and manage their monthly expenses.
 
-[![Build Status](https://travis-ci.com/albertallan-rar/Costs.svg?branch=main)](https://travis-ci.com/albertallan-rar/Costs)
-[![Coverage Status](https://coveralls.io/repos/github/albertallan-rar/Costs/badge.svg?branch=main)](https://coveralls.io/github/albertallan-rar/Costs?branch=main)
-[![License](https://img.shields.io/github/license/albertallan-rar/Costs)](https://github.com/albertallan-rar/Costs/blob/main/LICENSE)
-[![Release Version](https://img.shields.io/github/v/release/albertallan-rar/Costs)](https://github.com/albertallan-rar/Costs/releases)
-[![Dependency Status](https://david-dm.org/albertallan-rar/Costs/status.svg)](https://david-dm.org/albertallan-rar/Costs)
-
-
-<h1>:computer: Tecnologias utilizadas </h1>
+<h1>:computer: Technologies used</h1>
 <ul>
   <li>React</li>
   <li>UUID</li>
   <li>Json-Server</li>
  </ul>
- 
-<h1>:hammer:Como executar o projeto</h1>
-<h3> Para executar o projeto em sua máquina local, siga estas etapas:</h3>
+<h1>:hammer: How to run the project</h1>
+<h3> To run the project on your local machine, follow these steps:</h3>
 <ul>
-  <li>Clone o repositório em sua máquina local usando git clone :link: https://github.com/albertallan-rar/Costs.git :link:</li>
-  <li>Navegue até o diretório do projeto usando cd Costs </li>
-  <li>Instale as dependências do projeto usando npm install</li>
-  <li>Inicie o servidor local para visualizar o front-end usando npm start</li>
-  <li>Inicie o backend executando npm run backend</li>
+  <li>Clone the repository on your local machine using git clone :link: https://github.com/albertallan-rar/Costs.git :link:</li>
+  <li>Navigate to the project directory using cd Costs </li>
+  <li>Install project dependencies using npm install</li>
+  <li>Start the local server to view the front-end using npm start</li>
+  <li>Start the backend by running npm run backend</li>
 </ul>
-  
-<h1>:computer: Funcionalidades</h1>
+<h1>:computer: Features</h1>
 <ul>
-  <li>Adicionar e remover gastos</li>
-  <li>Visualizar gastos em uma lista</li>
-  <li>Visualizar o total de gastos</li>
-  <li>Visualizar gastos por categoria</li>
+  <li>Add and remove expenses</li>
+  <li>View expenses in a list</li>
+  <li>View total expenses</li>
+  <li>View expenses by category</li>
  </ul>
-
-<h1>:construction: Status do Projeto</h1>
-:heavy_check_mark: :tada: Finalizado 
-
-<h1>:tm: Licença</h1>
+<h1>:construction: Project Status</h1>
+:heavy_check_mark: :tada: Completed
+<h1>:tm: License</h1>
 <ul>
-  <li>Este projeto está licenciado sob a licença MIT.</li>
+  <li>This project is licensed under the MIT license.</li>
 </ul>
-
-<h1>:calling: Contato</h1>
+<h1>:calling: Contact</h1>
 <p> :mens: Albert Allan Ramos</p>
 <p> :email: E-mail: albertallanrar@gmail.com </p> 
-
-<h1> :star: Agradecimentos :star:</h1>
-<p>:thumbsup: Este projeto foi desenvolvido como parte do meu aprendizado em React, UUID e Json-Server. Agradeço ao curso do Hora de Codar por ter disponibilizado gratuitamente os conteudos no youtube:link:(https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO) :link:.</p>
-
-:heart: Obrigado por visitar o projeto Costs! :blush:
+<h1> :star: Acknowledgements :star:</h1>
+<p>:thumbsup: This project was developed as part of my learning in React, UUID and Json-Server. I thank the Hora de Codar course for making the content available for free on YouTube:link:(https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO) :link:.</p>
+:heart: Thank you for visiting the Costs project! :blush:
